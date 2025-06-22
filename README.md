@@ -1,2 +1,2 @@
 # ConUnits-v1
-Prueba
+Conversor de unidades simple y básico.
